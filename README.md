@@ -1,4 +1,3 @@
-# Hello world
+# Hello C/CPP
 
-如果这个模板有用，请点一个🌟吧！
-[Github Repo](https://github.com/Codesire-Deng/TemplateRepoCxx)
+这是一个 C/C++ 项目标准模板.
