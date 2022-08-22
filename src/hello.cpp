@@ -15,5 +15,8 @@ int main() {
     printf("mian start success!\n");
   }
 
+  printf("test a cursor \n");
+  printf("just a test.\n");
+
   return 0;
 }
