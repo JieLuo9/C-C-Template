@@ -32,9 +32,11 @@ int main() {
   printf("test a cursor.\n");
   printf("just a test.\n");
 
-  printf("好想学spdk啊!");
-  printf("好想学RDMA啊!");
-  printf("好想学NVMF啊!");
+  printf("好想学spdk啊!\n");
+  printf("好想学RDMA啊!\n");
+  printf("好想学NVMF啊!\n");
+
+  printf("好想学游戏啊, 我想做游戏...想做游戏, 想学虚幻5, 想做游戏...\n");
 
   return 0;
 }
